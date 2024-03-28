@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
         fontFamily: 'Inter',
         primarySwatch: Colors.blue,
       ),
-      home: const StudentDashboard(),
+      home: const UserTypeSelectionPage(),
     );
   }
 }
